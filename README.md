@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunhuiseem
 - 👀 I’m interested in having a good influence on the world with my skills.
-- 🌱 I’m currently learning Flutter/Dart. 
+- 🌱 I’m currently learning Flutter/Dart and React&Next.js. 
 - 💞️ I’m looking to collaborate on innovative mobile apps or web apps.
 
 <!---
